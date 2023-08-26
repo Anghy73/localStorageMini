@@ -1,0 +1,2 @@
+# localStorageMini
+probando el localStorage
